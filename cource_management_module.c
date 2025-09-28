@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include "file_handling_module.c"
-// #include "report_generation_module.c"
-// #include "file_handling_module.c"
 void addCourse() {
     if (courseCount >= MAX_COURSES) {
         printf("Course limit reached.\n");
@@ -120,3 +118,4 @@ void removeCourse() {
     courseCount--;
     printf("Course removed successfully.\n");
 }
+
