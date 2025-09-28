@@ -1,0 +1,10 @@
+9
+12|Btech(me)|Aman Rawat|100|1000
+14|Btech(chem)|rajat negi|110|1000
+16|Bsc(maths)|vihaan raghav|110|1300
+17|Bsc(chem)|Rajni rawat|110|1000
+13|Btech(ee)|quasim Mir|120|1100
+11|Btech(cse)|himu rawat|120|1200
+15|MBA|khushboo kumari|120|1300
+18|MBBS|Khushi|120|1400
+19|Btech(aerosp.)|Kaushal Singh|110|1200
