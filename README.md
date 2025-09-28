@@ -1,5 +1,6 @@
 # student-enrollment-system
-It is my GUI based project for the management of student enrollments. Here is the problem statement.
+It is my GUI based project for the management of student enrollments.This project is made in different files and integrated by header file. Here is the problem statement.
+
 Problem Statement 53: Course Enrollment System  
 Develop a C program for a Course Enrollment System to manage student enrollments and 
 course records efficiently. The system should include admin authentication to ensure secure 
